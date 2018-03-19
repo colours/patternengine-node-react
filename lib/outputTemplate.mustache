@@ -1,0 +1,31 @@
+<div class="reactPatternContainer" id="reactPatternContainer--{{{patternPartial}}}">
+  {{{htmlOutput}}}
+</div>
+
+<!-- pattern JSON (React props) -->
+<script data-type="patternJSON" id="patternJSON--{{{patternPartial}}}" type="application/json">
+  {{{json}}}
+</script>
+
+<!-- runtime React output -->
+<script>
+  {{{runtimeCode}}};
+
+  var Wrapper = React.createClass({
+
+    componentDidMount: function () {
+      if (ReactDOM.findDOMNode(this).classList.contains('grid__cell')) {
+        ReactDOM.findDOMNode(this).parentNode.classList.add('grid', 'grid--flush');
+      }
+    },
+
+    render: function () {
+      return React.createElement(component, this.props.json);
+    }
+
+  });
+
+  <!-- runtime rendering -->
+  var patternJSON = document.getElementById('patternJSON--{{{patternPartial}}}').textContent;
+  ReactDOM.render(React.createElement(Wrapper, { json: JSON.parse(patternJSON) }), document.getElementById('reactPatternContainer--{{{patternPartial}}}'));
+</script>

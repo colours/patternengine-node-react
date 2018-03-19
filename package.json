@@ -2,56 +2,56 @@
   "_args": [
     [
       {
-        "raw": "patternengine-node-react@git+https://github.com/tristandubbeld/patternengine-node-react.git",
+        "raw": "patternengine-node-react@git+https://github.com/colours/patternengine-node-react.git",
         "scope": null,
         "escapedName": "patternengine-node-react",
         "name": "patternengine-node-react",
-        "rawSpec": "git+https://github.com/tristandubbeld/patternengine-node-react.git",
-        "spec": "git+https://github.com/tristandubbeld/patternengine-node-react.git",
+        "rawSpec": "git+https://github.com/colours/patternengine-node-react.git",
+        "spec": "git+https://github.com/colours/patternengine-node-react.git",
         "type": "hosted",
         "hosted": {
           "type": "github",
-          "ssh": "git@github.com:tristandubbeld/patternengine-node-react.git",
-          "sshUrl": "git+ssh://git@github.com/tristandubbeld/patternengine-node-react.git",
-          "httpsUrl": "git+https://github.com/tristandubbeld/patternengine-node-react.git",
-          "gitUrl": "git://github.com/tristandubbeld/patternengine-node-react.git",
-          "shortcut": "github:tristandubbeld/patternengine-node-react",
-          "directUrl": "https://raw.githubusercontent.com/tristandubbeld/patternengine-node-react/master/package.json"
+          "ssh": "git@github.com:colours/patternengine-node-react.git",
+          "sshUrl": "git+ssh://git@github.com/colours/patternengine-node-react.git",
+          "httpsUrl": "git+https://github.com/colours/patternengine-node-react.git",
+          "gitUrl": "git://github.com/colours/patternengine-node-react.git",
+          "shortcut": "github:colours/patternengine-node-react",
+          "directUrl": "https://raw.githubusercontent.com/colours/patternengine-node-react/master/package.json"
         }
       },
       "/data/inetpub/goudse/src/Foundation/PatternLab/code"
     ]
   ],
-  "_from": "git+https://github.com/tristandubbeld/patternengine-node-react.git",
+  "_from": "git+https://github.com/colours/patternengine-node-react.git",
   "_id": "patternengine-node-react@0.1.0",
   "_inCache": true,
   "_location": "/patternengine-node-react",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "patternengine-node-react@git+https://github.com/tristandubbeld/patternengine-node-react.git",
+    "raw": "patternengine-node-react@git+https://github.com/colours/patternengine-node-react.git",
     "scope": null,
     "escapedName": "patternengine-node-react",
     "name": "patternengine-node-react",
-    "rawSpec": "git+https://github.com/tristandubbeld/patternengine-node-react.git",
-    "spec": "git+https://github.com/tristandubbeld/patternengine-node-react.git",
+    "rawSpec": "git+https://github.com/colours/patternengine-node-react.git",
+    "spec": "git+https://github.com/colours/patternengine-node-react.git",
     "type": "hosted",
     "hosted": {
       "type": "github",
-      "ssh": "git@github.com:tristandubbeld/patternengine-node-react.git",
-      "sshUrl": "git+ssh://git@github.com/tristandubbeld/patternengine-node-react.git",
-      "httpsUrl": "git+https://github.com/tristandubbeld/patternengine-node-react.git",
-      "gitUrl": "git://github.com/tristandubbeld/patternengine-node-react.git",
-      "shortcut": "github:tristandubbeld/patternengine-node-react",
-      "directUrl": "https://raw.githubusercontent.com/tristandubbeld/patternengine-node-react/master/package.json"
+      "ssh": "git@github.com:colours/patternengine-node-react.git",
+      "sshUrl": "git+ssh://git@github.com/colours/patternengine-node-react.git",
+      "httpsUrl": "git+https://github.com/colours/patternengine-node-react.git",
+      "gitUrl": "git://github.com/colours/patternengine-node-react.git",
+      "shortcut": "github:colours/patternengine-node-react",
+      "directUrl": "https://raw.githubusercontent.com/colours/patternengine-node-react/master/package.json"
     }
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+https://github.com/tristandubbeld/patternengine-node-react.git#885f48a1a3c0ac76d8c4ad492d80439629918798",
+  "_resolved": "git+https://github.com/colours/patternengine-node-react.git#885f48a1a3c0ac76d8c4ad492d80439629918798",
   "_shasum": "3bbf5cf0b4b1083881c3ab016296f5bd523734b4",
   "_shrinkwrap": null,
-  "_spec": "patternengine-node-react@git+https://github.com/tristandubbeld/patternengine-node-react.git",
+  "_spec": "patternengine-node-react@git+https://github.com/colours/patternengine-node-react.git",
   "_where": "/data/inetpub/goudse/src/Foundation/PatternLab/code",
   "author": {
     "name": "Brian Muenzenmeyer & Geoffrey Pursell"
